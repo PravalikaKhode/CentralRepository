@@ -1,0 +1,10 @@
+<suite name="TestSuite1">
+<test name="test">
+<parameter name = "EmailId" value = "pravalika180@gmail.com"/>
+<parameter name = "Password" value = "My#khode9"/>
+<classes>
+<class name="TestCases.TC1"/>
+</classes>
+</test>
+</suite>
+
